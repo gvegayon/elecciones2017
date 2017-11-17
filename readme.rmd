@@ -1,5 +1,4 @@
 ---
-title: "Elecciones 2017"
 output: github_document
 ---
 
@@ -17,6 +16,7 @@ for (can in candidatos)
 ```
 
 
-# Contacto
+Contacto
+=========
 
 http://ggvy.cl
