@@ -1,0 +1,1117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd" version="1.3">
+  <meta lastmodifieddate="2017-11-16">
+    <creator>NodosChile</creator>
+    <description>A GEXF file written in R with "rgexf"</description>
+    <keywords>GEXF, NodosChile, R, rgexf, Gephi</keywords>
+  </meta>
+  <graph mode="static" defaultedgetype="undirected">
+    <attributes class="node" mode="static">
+      <attribute id="att1" title="name" type="string"/>
+    </attributes>
+    <nodes>
+      <node id="1" label="">
+        <attvalues>
+          <attvalue for="att1" value=""/>
+        </attvalues>
+        <viz:color r="0" g="229" b="255" a="1"/>
+        <viz:position x="0.0355259926290614" y="0.127705085795891" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="2" label="03">
+        <attvalues>
+          <attvalue for="att1" value="03"/>
+        </attvalues>
+        <viz:color r="0" g="25" b="255" a="1"/>
+        <viz:position x="0.532471483850047" y="-1.11560661819315" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="3" label="1">
+        <attvalues>
+          <attvalue for="att1" value="1"/>
+        </attvalues>
+        <viz:color r="128" g="255" b="0" a="1"/>
+        <viz:position x="0.801559195360233" y="1.07946504799094" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="4" label="13">
+        <attvalues>
+          <attvalue for="att1" value="13"/>
+        </attvalues>
+        <viz:color r="0" g="25" b="255" a="1"/>
+        <viz:position x="0.58874071586852" y="-0.570796241653617" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="5" label="2016">
+        <attvalues>
+          <attvalue for="att1" value="2016"/>
+        </attvalues>
+        <viz:color r="76" g="0" b="255" a="1"/>
+        <viz:position x="0.0504917566203696" y="-1.30351045716793" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="6" label="2017">
+        <attvalues>
+          <attvalue for="att1" value="2017"/>
+        </attvalues>
+        <viz:color r="0" g="25" b="255" a="1"/>
+        <viz:position x="0.686473889144853" y="-0.945593635286562" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="7" label="24horastvn">
+        <attvalues>
+          <attvalue for="att1" value="24horastvn"/>
+        </attvalues>
+        <viz:color r="0" g="128" b="255" a="1"/>
+        <viz:position x="-1.15058278145446" y="1.40410806864984" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="8" label="7">
+        <attvalues>
+          <attvalue for="att1" value="7"/>
+        </attvalues>
+        <viz:color r="0" g="229" b="255" a="1"/>
+        <viz:position x="-0.511171459509178" y="-0.146033660921767" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="9" label="afp">
+        <attvalues>
+          <attvalue for="att1" value="afp"/>
+        </attvalues>
+        <viz:color r="0" g="25" b="255" a="1"/>
+        <viz:position x="1.08255511770795" y="-0.335487470753661" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="10" label="ahora">
+        <attvalues>
+          <attvalue for="att1" value="ahora"/>
+        </attvalues>
+        <viz:color r="255" g="255" b="0" a="1"/>
+        <viz:position x="1.73829052135772" y="1.42231348814028" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="11" label="alemania">
+        <attvalues>
+          <attvalue for="att1" value="alemania"/>
+        </attvalues>
+        <viz:color r="76" g="0" b="255" a="1"/>
+        <viz:position x="0.478672107517293" y="-1.74181390963834" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="12" label="aquí">
+        <attvalues>
+          <attvalue for="att1" value="aquí"/>
+        </attvalues>
+        <viz:color r="0" g="128" b="255" a="1"/>
+        <viz:position x="-0.0536390777352534" y="1.16406136306458" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="13" label="artes">
+        <attvalues>
+          <attvalue for="att1" value="artes"/>
+        </attvalues>
+        <viz:color r="0" g="128" b="255" a="1"/>
+        <viz:position x="-0.633221535680142" y="-0.712496714670073" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="14" label="artés">
+        <attvalues>
+          <attvalue for="att1" value="artés"/>
+        </attvalues>
+        <viz:color r="76" g="0" b="255" a="1"/>
+        <viz:position x="-0.397923705160612" y="-1.87214247208692" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="15" label="artespresidente">
+        <attvalues>
+          <attvalue for="att1" value="artespresidente"/>
+        </attvalues>
+        <viz:color r="0" g="128" b="255" a="1"/>
+        <viz:position x="0.0727873379701193" y="1.52105388785754" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="16" label="asamblea">
+        <attvalues>
+          <attvalue for="att1" value="asamblea"/>
+        </attvalues>
+        <viz:color r="0" g="25" b="255" a="1"/>
+        <viz:position x="1.26532983529528" y="-0.938203005579687" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="17" label="bachelet">
+        <attvalues>
+          <attvalue for="att1" value="bachelet"/>
+        </attvalues>
+        <viz:color r="0" g="255" b="77" a="1"/>
+        <viz:position x="0.960939282064521" y="0.314474970247768" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="18" label="bien">
+        <attvalues>
+          <attvalue for="att1" value="bien"/>
+        </attvalues>
+        <viz:color r="0" g="255" b="77" a="1"/>
+        <viz:position x="1.06428885520744" y="0.281810091572765" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="19" label="biobio">
+        <attvalues>
+          <attvalue for="att1" value="biobio"/>
+        </attvalues>
+        <viz:color r="0" g="25" b="255" a="1"/>
+        <viz:position x="-0.163872646469443" y="-0.66325084295315" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="20" label="brichetti">
+        <attvalues>
+          <attvalue for="att1" value="brichetti"/>
+        </attvalues>
+        <viz:color r="0" g="128" b="255" a="1"/>
+        <viz:position x="-0.603400195658452" y="0.898134105741716" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="21" label="cambio">
+        <attvalues>
+          <attvalue for="att1" value="cambio"/>
+        </attvalues>
+        <viz:color r="26" g="255" b="0" a="1"/>
+        <viz:position x="-1.17692423816177" y="0.322155105386865" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="22" label="candidato">
+        <attvalues>
+          <attvalue for="att1" value="candidato"/>
+        </attvalues>
+        <viz:color r="76" g="0" b="255" a="1"/>
+        <viz:position x="-0.668693665470348" y="-1.87826793120229" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="23" label="candidatos">
+        <attvalues>
+          <attvalue for="att1" value="candidatos"/>
+        </attvalues>
+        <viz:color r="26" g="255" b="0" a="1"/>
+        <viz:position x="-1.29240034320023" y="1.09125960579596" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="24" label="candidatura">
+        <attvalues>
+          <attvalue for="att1" value="candidatura"/>
+        </attvalues>
+        <viz:color r="230" g="255" b="0" a="1"/>
+        <viz:position x="2.05111880178338" y="0.147003526244934" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="25" label="cara">
+        <attvalues>
+          <attvalue for="att1" value="cara"/>
+        </attvalues>
+        <viz:color r="0" g="255" b="77" a="1"/>
+        <viz:position x="0.527634150199323" y="1.07437188757452" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="26" label="chalupa">
+        <attvalues>
+          <attvalue for="att1" value="chalupa"/>
+        </attvalues>
+        <viz:color r="0" g="255" b="77" a="1"/>
+        <viz:position x="0.938722179747069" y="0.471679296227603" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="27" label="chantas">
+        <attvalues>
+          <attvalue for="att1" value="chantas"/>
+        </attvalues>
+        <viz:color r="0" g="255" b="77" a="1"/>
+        <viz:position x="0.365601825966321" y="0.509307261656014" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="28" label="chileupa">
+        <attvalues>
+          <attvalue for="att1" value="chileupa"/>
+        </attvalues>
+        <viz:color r="76" g="0" b="255" a="1"/>
+        <viz:position x="-0.904315344554984" y="-1.45564691172339" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="29" label="comunistas">
+        <attvalues>
+          <attvalue for="att1" value="comunistas"/>
+        </attvalues>
+        <viz:color r="26" g="255" b="0" a="1"/>
+        <viz:position x="-1.86865660456625" y="0.261368081334469" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="30" label="congreso">
+        <attvalues>
+          <attvalue for="att1" value="congreso"/>
+        </attvalues>
+        <viz:color r="0" g="255" b="77" a="1"/>
+        <viz:position x="0.192850550974441" y="1.08464473178655" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="31" label="corrupción">
+        <attvalues>
+          <attvalue for="att1" value="corrupción"/>
+        </attvalues>
+        <viz:color r="0" g="255" b="77" a="1"/>
+        <viz:position x="0.520631609172892" y="0.803027964681229" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="32" label="debate">
+        <attvalues>
+          <attvalue for="att1" value="debate"/>
+        </attvalues>
+        <viz:color r="0" g="255" b="77" a="1"/>
+        <viz:position x="0.288019119132546" y="0.435282789537512" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="33" label="dice">
+        <attvalues>
+          <attvalue for="att1" value="dice"/>
+        </attvalues>
+        <viz:color r="255" g="229" b="59" a="1"/>
+        <viz:position x="0.0262358073054931" y="2.24017865595643" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="34" label="domingo">
+        <attvalues>
+          <attvalue for="att1" value="domingo"/>
+        </attvalues>
+        <viz:color r="0" g="25" b="255" a="1"/>
+        <viz:position x="0.0987785411155876" y="-0.624967127846701" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="35" label="eduardo">
+        <attvalues>
+          <attvalue for="att1" value="eduardo"/>
+        </attvalues>
+        <viz:color r="76" g="0" b="255" a="1"/>
+        <viz:position x="-0.502264495634779" y="-1.49042276943985" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="36" label="eduardoartes">
+        <attvalues>
+          <attvalue for="att1" value="eduardoartes"/>
+        </attvalues>
+        <viz:color r="76" g="0" b="255" a="1"/>
+        <viz:position x="-0.804886768570468" y="-1.56801442336787" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="37" label="elecciones">
+        <attvalues>
+          <attvalue for="att1" value="elecciones"/>
+        </attvalues>
+        <viz:color r="0" g="128" b="255" a="1"/>
+        <viz:position x="-0.470527734097095" y="0.581691855249789" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="38" label="electorado">
+        <attvalues>
+          <attvalue for="att1" value="electorado"/>
+        </attvalues>
+        <viz:color r="0" g="229" b="255" a="1"/>
+        <viz:position x="-1.21871577059319" y="-1.13155413149562" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="39" label="encuentro">
+        <attvalues>
+          <attvalue for="att1" value="encuentro"/>
+        </attvalues>
+        <viz:color r="0" g="25" b="255" a="1"/>
+        <viz:position x="0.464337787164957" y="-1.41422878056667" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="40" label="entrega">
+        <attvalues>
+          <attvalue for="att1" value="entrega"/>
+        </attvalues>
+        <viz:color r="26" g="255" b="0" a="1"/>
+        <viz:position x="-1.39880451595378" y="0.939927529488421" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="41" label="entrevista">
+        <attvalues>
+          <attvalue for="att1" value="entrevista"/>
+        </attvalues>
+        <viz:color r="76" g="0" b="255" a="1"/>
+        <viz:position x="0.213335254315212" y="-1.76959672674759" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="42" label="gente">
+        <attvalues>
+          <attvalue for="att1" value="gente"/>
+        </attvalues>
+        <viz:color r="0" g="255" b="77" a="1"/>
+        <viz:position x="1.01742093155172" y="0.0905296471737441" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="43" label="gobierno">
+        <attvalues>
+          <attvalue for="att1" value="gobierno"/>
+        </attvalues>
+        <viz:color r="0" g="255" b="77" a="1"/>
+        <viz:position x="0.76639866702055" y="0.716187696913197" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="44" label="hoy">
+        <attvalues>
+          <attvalue for="att1" value="hoy"/>
+        </attvalues>
+        <viz:color r="26" g="255" b="0" a="1"/>
+        <viz:position x="-1.06745745016539" y="-0.321288865776251" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="45" label="hrs">
+        <attvalues>
+          <attvalue for="att1" value="hrs"/>
+        </attvalues>
+        <viz:color r="0" g="25" b="255" a="1"/>
+        <viz:position x="-0.447474938338825" y="-0.399971822911882" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="46" label="https">
+        <attvalues>
+          <attvalue for="att1" value="https"/>
+        </attvalues>
+        <viz:color r="26" g="255" b="0" a="1"/>
+        <viz:position x="-1.31535624942796" y="-0.496390132150123" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="47" label="independencia">
+        <attvalues>
+          <attvalue for="att1" value="independencia"/>
+        </attvalues>
+        <viz:color r="0" g="229" b="255" a="1"/>
+        <viz:position x="-0.247945045911583" y="-0.116479631638822" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="48" label="independiente">
+        <attvalues>
+          <attvalue for="att1" value="independiente"/>
+        </attvalues>
+        <viz:color r="26" g="255" b="0" a="1"/>
+        <viz:position x="-2.08638201756915" y="-0.166962243276576" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="49" label="indignación">
+        <attvalues>
+          <attvalue for="att1" value="indignación"/>
+        </attvalues>
+        <viz:color r="0" g="255" b="77" a="1"/>
+        <viz:position x="0.337944631273805" y="-0.0497202379260844" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="50" label="infogatecl">
+        <attvalues>
+          <attvalue for="att1" value="infogatecl"/>
+        </attvalues>
+        <viz:color r="76" g="0" b="255" a="1"/>
+        <viz:position x="-0.737441723015624" y="-1.01354463393704" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="51" label="izquierda">
+        <attvalues>
+          <attvalue for="att1" value="izquierda"/>
+        </attvalues>
+        <viz:color r="230" g="255" b="0" a="1"/>
+        <viz:position x="2.1388132226754" y="0.314826930920148" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="52" label="mafia">
+        <attvalues>
+          <attvalue for="att1" value="mafia"/>
+        </attvalues>
+        <viz:color r="0" g="255" b="77" a="1"/>
+        <viz:position x="0.763283668314075" y="0.262584057161017" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="53" label="mafioso">
+        <attvalues>
+          <attvalue for="att1" value="mafioso"/>
+        </attvalues>
+        <viz:color r="0" g="255" b="77" a="1"/>
+        <viz:position x="1.2456539413944" y="0.358217073060947" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="54" label="mal">
+        <attvalues>
+          <attvalue for="att1" value="mal"/>
+        </attvalues>
+        <viz:color r="0" g="255" b="77" a="1"/>
+        <viz:position x="0.481866231218153" y="0.270272439664154" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="55" label="mañana">
+        <attvalues>
+          <attvalue for="att1" value="mañana"/>
+        </attvalues>
+        <viz:color r="0" g="25" b="255" a="1"/>
+        <viz:position x="-0.727474214672104" y="0.0548354794654931" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="56" label="mas">
+        <attvalues>
+          <attvalue for="att1" value="mas"/>
+        </attvalues>
+        <viz:color r="0" g="255" b="77" a="1"/>
+        <viz:position x="0.822042226535946" y="0.598931175192166" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="57" label="mayoría">
+        <attvalues>
+          <attvalue for="att1" value="mayoría"/>
+        </attvalues>
+        <viz:color r="0" g="229" b="255" a="1"/>
+        <viz:position x="0.202417473719895" y="0.710326976391029" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="58" label="mayorías">
+        <attvalues>
+          <attvalue for="att1" value="mayorías"/>
+        </attvalues>
+        <viz:color r="0" g="255" b="77" a="1"/>
+        <viz:position x="0.538748997155844" y="-0.0641583507879121" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="59" label="medios">
+        <attvalues>
+          <attvalue for="att1" value="medios"/>
+        </attvalues>
+        <viz:color r="0" g="255" b="77" a="1"/>
+        <viz:position x="1.44356136649395" y="0.0873339149282062" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="60" label="mejor">
+        <attvalues>
+          <attvalue for="att1" value="mejor"/>
+        </attvalues>
+        <viz:color r="26" g="255" b="0" a="1"/>
+        <viz:position x="-1.04160815563411" y="0.947184395267644" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="61" label="miseria">
+        <attvalues>
+          <attvalue for="att1" value="miseria"/>
+        </attvalues>
+        <viz:color r="0" g="229" b="255" a="1"/>
+        <viz:position x="0.378675033123489" y="0.86339805176946" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="62" label="municipales2016">
+        <attvalues>
+          <attvalue for="att1" value="municipales2016"/>
+        </attvalues>
+        <viz:color r="26" g="255" b="0" a="1"/>
+        <viz:position x="-1.18213583324645" y="0.586341906864106" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="63" label="nacional">
+        <attvalues>
+          <attvalue for="att1" value="nacional"/>
+        </attvalues>
+        <viz:color r="0" g="25" b="255" a="1"/>
+        <viz:position x="0.84769996961269" y="-1.11060821379639" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="64" label="nomasafp">
+        <attvalues>
+          <attvalue for="att1" value="nomasafp"/>
+        </attvalues>
+        <viz:color r="0" g="229" b="255" a="1"/>
+        <viz:position x="-0.766687108034747" y="-0.757040234053211" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="65" label="nueva">
+        <attvalues>
+          <attvalue for="att1" value="nueva"/>
+        </attvalues>
+        <viz:color r="0" g="229" b="255" a="1"/>
+        <viz:position x="0.0868833246315356" y="0.47881609185073" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="66" label="nuevo">
+        <attvalues>
+          <attvalue for="att1" value="nuevo"/>
+        </attvalues>
+        <viz:color r="26" g="255" b="0" a="1"/>
+        <viz:position x="-1.30584432506248" y="0.0555838735413578" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="67" label="opinión">
+        <attvalues>
+          <attvalue for="att1" value="opinión"/>
+        </attvalues>
+        <viz:color r="76" g="0" b="255" a="1"/>
+        <viz:position x="-0.375105294200557" y="-1.42273935284224" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="68" label="partido">
+        <attvalues>
+          <attvalue for="att1" value="partido"/>
+        </attvalues>
+        <viz:color r="0" g="128" b="255" a="1"/>
+        <viz:position x="-0.775500841824472" y="1.21556153778321" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="69" label="patriótica">
+        <attvalues>
+          <attvalue for="att1" value="patriótica"/>
+        </attvalues>
+        <viz:color r="0" g="128" b="255" a="1"/>
+        <viz:position x="-0.911175732180187" y="1.9514422556992" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="70" label="pcapchile">
+        <attvalues>
+          <attvalue for="att1" value="pcapchile"/>
+        </attvalues>
+        <viz:color r="0" g="128" b="255" a="1"/>
+        <viz:position x="0.367397162812749" y="1.60941771842765" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="71" label="pensiones">
+        <attvalues>
+          <attvalue for="att1" value="pensiones"/>
+        </attvalues>
+        <viz:color r="0" g="229" b="255" a="1"/>
+        <viz:position x="-0.983656957456711" y="-0.599118327850647" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="72" label="podredumbre">
+        <attvalues>
+          <attvalue for="att1" value="podredumbre"/>
+        </attvalues>
+        <viz:color r="0" g="229" b="255" a="1"/>
+        <viz:position x="0.456493838856603" y="1.40587171974782" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="73" label="popular">
+        <attvalues>
+          <attvalue for="att1" value="popular"/>
+        </attvalues>
+        <viz:color r="255" g="219" b="119" a="1"/>
+        <viz:position x="-0.44686021876825" y="2.17641495894112" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="74" label="presidencia">
+        <attvalues>
+          <attvalue for="att1" value="presidencia"/>
+        </attvalues>
+        <viz:color r="0" g="229" b="255" a="1"/>
+        <viz:position x="-1.08781607048372" y="-0.466955052098651" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="75" label="presidencial">
+        <attvalues>
+          <attvalue for="att1" value="presidencial"/>
+        </attvalues>
+        <viz:color r="76" g="0" b="255" a="1"/>
+        <viz:position x="-0.64529467892714" y="-1.73202753720692" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="76" label="presidente">
+        <attvalues>
+          <attvalue for="att1" value="presidente"/>
+        </attvalues>
+        <viz:color r="0" g="128" b="255" a="1"/>
+        <viz:position x="-0.752515858403171" y="0.161610870056802" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="77" label="profefabi">
+        <attvalues>
+          <attvalue for="att1" value="profefabi"/>
+        </attvalues>
+        <viz:color r="255" g="224" b="179" a="1"/>
+        <viz:position x="0.725131419355814" y="2.14324612781774" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="78" label="programa">
+        <attvalues>
+          <attvalue for="att1" value="programa"/>
+        </attvalues>
+        <viz:color r="0" g="25" b="255" a="1"/>
+        <viz:position x="0.055074443158224" y="-0.299222845702561" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="79" label="propuesta">
+        <attvalues>
+          <attvalue for="att1" value="propuesta"/>
+        </attvalues>
+        <viz:color r="26" g="255" b="0" a="1"/>
+        <viz:position x="-1.37264613377632" y="-0.286864475628308" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="80" label="pueblo">
+        <attvalues>
+          <attvalue for="att1" value="pueblo"/>
+        </attvalues>
+        <viz:color r="0" g="25" b="255" a="1"/>
+        <viz:position x="1.50698844925799" y="-0.479467903414227" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="81" label="pueblos">
+        <attvalues>
+          <attvalue for="att1" value="pueblos"/>
+        </attvalues>
+        <viz:color r="0" g="229" b="255" a="1"/>
+        <viz:position x="-0.341671290101415" y="-0.455654199691936" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="82" label="quelosvecinosganen">
+        <attvalues>
+          <attvalue for="att1" value="quelosvecinosganen"/>
+        </attvalues>
+        <viz:color r="26" g="255" b="0" a="1"/>
+        <viz:position x="-0.978883676362337" y="0.40647888704502" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="83" label="queremos">
+        <attvalues>
+          <attvalue for="att1" value="queremos"/>
+        </attvalues>
+        <viz:color r="26" g="255" b="0" a="1"/>
+        <viz:position x="-1.75651734974093" y="-0.0959239375918004" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="84" label="realmente">
+        <attvalues>
+          <attvalue for="att1" value="realmente"/>
+        </attvalues>
+        <viz:color r="26" g="255" b="0" a="1"/>
+        <viz:position x="-2.08055447957366" y="0.0450143414274016" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="85" label="refundar">
+        <attvalues>
+          <attvalue for="att1" value="refundar"/>
+        </attvalues>
+        <viz:color r="0" g="229" b="255" a="1"/>
+        <viz:position x="-0.42657868594115" y="0.79185442303164" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="86" label="sacar">
+        <attvalues>
+          <attvalue for="att1" value="sacar"/>
+        </attvalues>
+        <viz:color r="128" g="255" b="0" a="1"/>
+        <viz:position x="1.22050599250125" y="1.00857333512043" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="87" label="saludo">
+        <attvalues>
+          <attvalue for="att1" value="saludo"/>
+        </attvalues>
+        <viz:color r="76" g="0" b="255" a="1"/>
+        <viz:position x="0.786111262670185" y="-1.94196000321158" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="88" label="septiembre">
+        <attvalues>
+          <attvalue for="att1" value="septiembre"/>
+        </attvalues>
+        <viz:color r="0" g="25" b="255" a="1"/>
+        <viz:position x="0.444552164483282" y="-1.06618839743967" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="89" label="ser">
+        <attvalues>
+          <attvalue for="att1" value="ser"/>
+        </attvalues>
+        <viz:color r="0" g="229" b="255" a="1"/>
+        <viz:position x="-1.31121278747567" y="-0.841068993021306" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="90" label="sgomezceledon">
+        <attvalues>
+          <attvalue for="att1" value="sgomezceledon"/>
+        </attvalues>
+        <viz:color r="76" g="0" b="255" a="1"/>
+        <viz:position x="-1.08100638827114" y="-1.35398278042119" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="91" label="socialismo">
+        <attvalues>
+          <attvalue for="att1" value="socialismo"/>
+        </attvalues>
+        <viz:color r="26" g="255" b="0" a="1"/>
+        <viz:position x="-1.59439826924958" y="-0.0965480047521266" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="92" label="tele13radio">
+        <attvalues>
+          <attvalue for="att1" value="tele13radio"/>
+        </attvalues>
+        <viz:color r="0" g="25" b="255" a="1"/>
+        <viz:position x="1.77922307643689" y="-0.76882812050254" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="93" label="til">
+        <attvalues>
+          <attvalue for="att1" value="til"/>
+        </attvalues>
+        <viz:color r="128" g="255" b="0" a="1"/>
+        <viz:position x="1.20067561624535" y="1.2944274091144" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="94" label="toda">
+        <attvalues>
+          <attvalue for="att1" value="toda"/>
+        </attvalues>
+        <viz:color r="0" g="255" b="77" a="1"/>
+        <viz:position x="1.2090028335975" y="0.18816267239769" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="95" label="total">
+        <attvalues>
+          <attvalue for="att1" value="total"/>
+        </attvalues>
+        <viz:color r="0" g="255" b="77" a="1"/>
+        <viz:position x="1.02501434614089" y="0.521547419643287" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="96" label="trabajadores">
+        <attvalues>
+          <attvalue for="att1" value="trabajadores"/>
+        </attvalues>
+        <viz:color r="0" g="229" b="255" a="1"/>
+        <viz:position x="-0.34420093143279" y="-0.0332554608241606" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="97" label="tvn">
+        <attvalues>
+          <attvalue for="att1" value="tvn"/>
+        </attvalues>
+        <viz:color r="0" g="25" b="255" a="1"/>
+        <viz:position x="0.984757454557123" y="-0.788513324808818" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="98" label="uchileradio">
+        <attvalues>
+          <attvalue for="att1" value="uchileradio"/>
+        </attvalues>
+        <viz:color r="230" g="255" b="0" a="1"/>
+        <viz:position x="2.2506858544915" y="0.156149326559125" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="99" label="única">
+        <attvalues>
+          <attvalue for="att1" value="única"/>
+        </attvalues>
+        <viz:color r="230" g="255" b="0" a="1"/>
+        <viz:position x="2.15436060170925" y="-0.00834895386984533" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="100" label="unión">
+        <attvalues>
+          <attvalue for="att1" value="unión"/>
+        </attvalues>
+        <viz:color r="0" g="128" b="255" a="1"/>
+        <viz:position x="-0.863826114008859" y="1.66980846636977" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="101" label="upa">
+        <attvalues>
+          <attvalue for="att1" value="upa"/>
+        </attvalues>
+        <viz:color r="0" g="25" b="255" a="1"/>
+        <viz:position x="1.13876471738373" y="-0.597473332926169" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="102" label="vamos">
+        <attvalues>
+          <attvalue for="att1" value="vamos"/>
+        </attvalues>
+        <viz:color r="0" g="229" b="255" a="1"/>
+        <viz:position x="-0.281677119940191" y="0.242346790834165" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="103" label="van">
+        <attvalues>
+          <attvalue for="att1" value="van"/>
+        </attvalues>
+        <viz:color r="128" g="255" b="0" a="1"/>
+        <viz:position x="1.08457667586874" y="1.38903382101741" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="104" label="venezuela">
+        <attvalues>
+          <attvalue for="att1" value="venezuela"/>
+        </attvalues>
+        <viz:color r="0" g="255" b="77" a="1"/>
+        <viz:position x="0.221970607812973" y="0.0856474748030253" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="105" label="vía">
+        <attvalues>
+          <attvalue for="att1" value="vía"/>
+        </attvalues>
+        <viz:color r="76" g="0" b="255" a="1"/>
+        <viz:position x="-0.332874324567715" y="-1.73479067562636" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="106" label="video">
+        <attvalues>
+          <attvalue for="att1" value="video"/>
+        </attvalues>
+        <viz:color r="0" g="255" b="77" a="1"/>
+        <viz:position x="0.353355279155103" y="0.06650304630109" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="107" label="volver">
+        <attvalues>
+          <attvalue for="att1" value="volver"/>
+        </attvalues>
+        <viz:color r="26" g="255" b="0" a="1"/>
+        <viz:position x="-1.50822893197778" y="-0.245492328834148" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+      <node id="108" label="youtube">
+        <attvalues>
+          <attvalue for="att1" value="youtube"/>
+        </attvalues>
+        <viz:color r="76" g="0" b="255" a="1"/>
+        <viz:position x="-0.083433120474679" y="-1.6112845064687" z="0"/>
+        <viz:size value="0.0433706787206065"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" target="8" weight="1"/>
+      <edge id="1" target="47" weight="1"/>
+      <edge id="2" target="52" weight="1"/>
+      <edge id="3" target="58" weight="1"/>
+      <edge id="4" target="61" weight="1"/>
+      <edge id="5" target="65" weight="1"/>
+      <edge id="6" target="81" weight="1"/>
+      <edge id="7" target="96" weight="1"/>
+      <edge id="8" target="102" weight="1"/>
+      <edge id="9" source="2" target="6" weight="1"/>
+      <edge id="10" source="2" target="34" weight="1"/>
+      <edge id="11" source="2" target="39" weight="1"/>
+      <edge id="12" source="2" target="63" weight="1"/>
+      <edge id="13" source="2" target="88" weight="1"/>
+      <edge id="14" source="3" target="43" weight="1"/>
+      <edge id="15" source="3" target="57" weight="1"/>
+      <edge id="16" source="3" target="61" weight="1"/>
+      <edge id="17" source="3" target="86" weight="1"/>
+      <edge id="18" source="3" target="93" weight="1"/>
+      <edge id="19" source="3" target="103" weight="1"/>
+      <edge id="20" source="4" target="9" weight="1"/>
+      <edge id="21" source="4" target="34" weight="1"/>
+      <edge id="22" source="4" target="78" weight="1"/>
+      <edge id="23" source="4" target="97" weight="1"/>
+      <edge id="24" source="5" target="11" weight="1"/>
+      <edge id="25" source="5" target="41" weight="1"/>
+      <edge id="26" source="5" target="81" weight="1"/>
+      <edge id="27" source="5" target="108" weight="1"/>
+      <edge id="28" source="6" target="16" weight="1"/>
+      <edge id="29" source="6" target="34" weight="1"/>
+      <edge id="30" source="6" target="88" weight="1"/>
+      <edge id="31" source="7" target="23" weight="1"/>
+      <edge id="32" source="7" target="68" weight="1"/>
+      <edge id="33" source="8" target="47" weight="1"/>
+      <edge id="34" source="8" target="74" weight="1"/>
+      <edge id="35" source="8" target="81" weight="1"/>
+      <edge id="36" source="8" target="96" weight="1"/>
+      <edge id="37" source="8" target="102" weight="1"/>
+      <edge id="38" source="9" target="53" weight="1"/>
+      <edge id="39" source="9" target="97" weight="1"/>
+      <edge id="40" source="11" target="87" weight="1"/>
+      <edge id="41" source="12" target="15" weight="1"/>
+      <edge id="42" source="12" target="20" weight="1"/>
+      <edge id="43" source="12" target="30" weight="1"/>
+      <edge id="44" source="12" target="31" weight="1"/>
+      <edge id="45" source="13" target="35" weight="1"/>
+      <edge id="46" source="13" target="76" weight="1"/>
+      <edge id="47" source="14" target="22" weight="1"/>
+      <edge id="48" source="14" target="35" weight="1"/>
+      <edge id="49" source="14" target="75" weight="1"/>
+      <edge id="50" source="14" target="105" weight="1"/>
+      <edge id="51" source="14" target="108" weight="1"/>
+      <edge id="52" source="15" target="30" weight="1"/>
+      <edge id="53" source="15" target="70" weight="1"/>
+      <edge id="54" source="16" target="80" weight="1"/>
+      <edge id="55" source="17" target="18" weight="1"/>
+      <edge id="56" source="17" target="26" weight="1"/>
+      <edge id="57" source="17" target="42" weight="1"/>
+      <edge id="58" source="17" target="52" weight="1"/>
+      <edge id="59" source="17" target="53" weight="1"/>
+      <edge id="60" source="17" target="54" weight="1"/>
+      <edge id="61" source="17" target="56" weight="1"/>
+      <edge id="62" source="17" target="94" weight="1"/>
+      <edge id="63" source="17" target="95" weight="1"/>
+      <edge id="64" source="18" target="26" weight="1"/>
+      <edge id="65" source="18" target="42" weight="1"/>
+      <edge id="66" source="18" target="52" weight="1"/>
+      <edge id="67" source="18" target="54" weight="1"/>
+      <edge id="68" source="18" target="56" weight="1"/>
+      <edge id="69" source="18" target="59" weight="1"/>
+      <edge id="70" source="18" target="94" weight="1"/>
+      <edge id="71" source="18" target="95" weight="1"/>
+      <edge id="72" source="19" target="45" weight="1"/>
+      <edge id="73" source="19" target="78" weight="1"/>
+      <edge id="74" source="20" target="68" weight="1"/>
+      <edge id="75" source="20" target="76" weight="1"/>
+      <edge id="76" source="21" target="55" weight="1"/>
+      <edge id="77" source="21" target="62" weight="1"/>
+      <edge id="78" source="21" target="66" weight="1"/>
+      <edge id="79" source="21" target="82" weight="1"/>
+      <edge id="80" source="22" target="35" weight="1"/>
+      <edge id="81" source="22" target="36" weight="1"/>
+      <edge id="82" source="22" target="75" weight="1"/>
+      <edge id="83" source="23" target="40" weight="1"/>
+      <edge id="84" source="23" target="60" weight="1"/>
+      <edge id="85" source="23" target="62" weight="1"/>
+      <edge id="86" source="24" target="51" weight="1"/>
+      <edge id="87" source="24" target="98" weight="1"/>
+      <edge id="88" source="24" target="99" weight="1"/>
+      <edge id="89" source="25" target="32" weight="1"/>
+      <edge id="90" source="25" target="56" weight="1"/>
+      <edge id="91" source="25" target="70" weight="1"/>
+      <edge id="92" source="26" target="31" weight="1"/>
+      <edge id="93" source="26" target="42" weight="1"/>
+      <edge id="94" source="26" target="43" weight="1"/>
+      <edge id="95" source="26" target="52" weight="1"/>
+      <edge id="96" source="26" target="94" weight="1"/>
+      <edge id="97" source="26" target="95" weight="1"/>
+      <edge id="98" source="27" target="31" weight="1"/>
+      <edge id="99" source="27" target="37" weight="1"/>
+      <edge id="100" source="27" target="42" weight="1"/>
+      <edge id="101" source="27" target="54" weight="1"/>
+      <edge id="102" source="28" target="36" weight="1"/>
+      <edge id="103" source="28" target="50" weight="1"/>
+      <edge id="104" source="28" target="75" weight="1"/>
+      <edge id="105" source="28" target="90" weight="1"/>
+      <edge id="106" source="29" target="91" weight="1"/>
+      <edge id="107" source="30" target="31" weight="1"/>
+      <edge id="108" source="30" target="32" weight="1"/>
+      <edge id="109" source="31" target="32" weight="1"/>
+      <edge id="110" source="31" target="43" weight="1"/>
+      <edge id="111" source="31" target="95" weight="1"/>
+      <edge id="112" source="32" target="49" weight="1"/>
+      <edge id="113" source="32" target="54" weight="1"/>
+      <edge id="114" source="32" target="78" weight="1"/>
+      <edge id="115" source="32" target="104" weight="1"/>
+      <edge id="116" source="32" target="106" weight="1"/>
+      <edge id="117" source="34" target="45" weight="1"/>
+      <edge id="118" source="34" target="55" weight="1"/>
+      <edge id="119" source="34" target="78" weight="1"/>
+      <edge id="120" source="34" target="88" weight="1"/>
+      <edge id="121" source="35" target="75" weight="1"/>
+      <edge id="122" source="35" target="105" weight="1"/>
+      <edge id="123" source="35" target="108" weight="1"/>
+      <edge id="124" source="36" target="50" weight="1"/>
+      <edge id="125" source="36" target="75" weight="1"/>
+      <edge id="126" source="37" target="55" weight="1"/>
+      <edge id="127" source="37" target="68" weight="1"/>
+      <edge id="128" source="37" target="82" weight="1"/>
+      <edge id="129" source="37" target="102" weight="1"/>
+      <edge id="130" source="38" target="50" weight="1"/>
+      <edge id="131" source="38" target="89" weight="1"/>
+      <edge id="132" source="39" target="63" weight="1"/>
+      <edge id="133" source="39" target="88" weight="1"/>
+      <edge id="134" source="39" target="108" weight="1"/>
+      <edge id="135" source="40" target="60" weight="1"/>
+      <edge id="136" source="40" target="62" weight="1"/>
+      <edge id="137" source="42" target="59" weight="1"/>
+      <edge id="138" source="42" target="94" weight="1"/>
+      <edge id="139" source="42" target="95" weight="1"/>
+      <edge id="140" source="42" target="101" weight="1"/>
+      <edge id="141" source="43" target="57" weight="1"/>
+      <edge id="142" source="43" target="61" weight="1"/>
+      <edge id="143" source="43" target="94" weight="1"/>
+      <edge id="144" source="43" target="95" weight="1"/>
+      <edge id="145" source="44" target="45" weight="1"/>
+      <edge id="146" source="44" target="71" weight="1"/>
+      <edge id="147" source="44" target="79" weight="1"/>
+      <edge id="148" source="44" target="107" weight="1"/>
+      <edge id="149" source="45" target="55" weight="1"/>
+      <edge id="150" source="45" target="78" weight="1"/>
+      <edge id="151" source="46" target="50" weight="1"/>
+      <edge id="152" source="46" target="66" weight="1"/>
+      <edge id="153" source="46" target="91" weight="1"/>
+      <edge id="154" source="46" target="107" weight="1"/>
+      <edge id="155" source="47" target="81" weight="1"/>
+      <edge id="156" source="47" target="96" weight="1"/>
+      <edge id="157" source="47" target="102" weight="1"/>
+      <edge id="158" source="48" target="83" weight="1"/>
+      <edge id="159" source="48" target="84" weight="1"/>
+      <edge id="160" source="49" target="54" weight="1"/>
+      <edge id="161" source="49" target="58" weight="1"/>
+      <edge id="162" source="49" target="78" weight="1"/>
+      <edge id="163" source="49" target="104" weight="1"/>
+      <edge id="164" source="49" target="106" weight="1"/>
+      <edge id="165" source="50" target="67" weight="1"/>
+      <edge id="166" source="50" target="78" weight="1"/>
+      <edge id="167" source="50" target="90" weight="1"/>
+      <edge id="168" source="51" target="98" weight="1"/>
+      <edge id="169" source="51" target="99" weight="1"/>
+      <edge id="170" source="52" target="53" weight="1"/>
+      <edge id="171" source="52" target="56" weight="1"/>
+      <edge id="172" source="52" target="58" weight="1"/>
+      <edge id="173" source="52" target="95" weight="1"/>
+      <edge id="174" source="53" target="86" weight="1"/>
+      <edge id="175" source="54" target="56" weight="1"/>
+      <edge id="176" source="54" target="57" weight="1"/>
+      <edge id="177" source="54" target="65" weight="1"/>
+      <edge id="178" source="54" target="78" weight="1"/>
+      <edge id="179" source="54" target="104" weight="1"/>
+      <edge id="180" source="54" target="106" weight="1"/>
+      <edge id="181" source="55" target="62" weight="1"/>
+      <edge id="182" source="55" target="66" weight="1"/>
+      <edge id="183" source="55" target="82" weight="1"/>
+      <edge id="184" source="57" target="61" weight="1"/>
+      <edge id="185" source="57" target="65" weight="1"/>
+      <edge id="186" source="57" target="85" weight="1"/>
+      <edge id="187" source="57" target="102" weight="1"/>
+      <edge id="188" source="60" target="62" weight="1"/>
+      <edge id="189" source="60" target="85" weight="1"/>
+      <edge id="190" source="61" target="72" weight="1"/>
+      <edge id="191" source="62" target="66" weight="1"/>
+      <edge id="192" source="62" target="82" weight="1"/>
+      <edge id="193" source="63" target="88" weight="1"/>
+      <edge id="194" source="63" target="97" weight="1"/>
+      <edge id="195" source="63" target="101" weight="1"/>
+      <edge id="196" source="64" target="71" weight="1"/>
+      <edge id="197" source="64" target="81" weight="1"/>
+      <edge id="198" source="66" target="79" weight="1"/>
+      <edge id="199" source="66" target="82" weight="1"/>
+      <edge id="200" source="66" target="83" weight="1"/>
+      <edge id="201" source="66" target="91" weight="1"/>
+      <edge id="202" source="66" target="107" weight="1"/>
+      <edge id="203" source="67" target="105" weight="1"/>
+      <edge id="204" source="67" target="108" weight="1"/>
+      <edge id="205" source="68" target="100" weight="1"/>
+      <edge id="206" source="69" target="100" weight="1"/>
+      <edge id="207" source="71" target="79" weight="1"/>
+      <edge id="208" source="71" target="81" weight="1"/>
+      <edge id="209" source="71" target="89" weight="1"/>
+      <edge id="210" source="74" target="79" weight="1"/>
+      <edge id="211" source="74" target="89" weight="1"/>
+      <edge id="212" source="75" target="105" weight="1"/>
+      <edge id="213" source="78" target="104" weight="1"/>
+      <edge id="214" source="78" target="106" weight="1"/>
+      <edge id="215" source="79" target="83" weight="1"/>
+      <edge id="216" source="79" target="91" weight="1"/>
+      <edge id="217" source="79" target="107" weight="1"/>
+      <edge id="218" source="80" target="92" weight="1"/>
+      <edge id="219" source="80" target="94" weight="1"/>
+      <edge id="220" source="81" target="96" weight="1"/>
+      <edge id="221" source="81" target="102" weight="1"/>
+      <edge id="222" source="83" target="84" weight="1"/>
+      <edge id="223" source="83" target="91" weight="1"/>
+      <edge id="224" source="83" target="107" weight="1"/>
+      <edge id="225" source="85" target="102" weight="1"/>
+      <edge id="226" source="86" target="93" weight="1"/>
+      <edge id="227" source="86" target="103" weight="1"/>
+      <edge id="228" source="91" target="107" weight="1"/>
+      <edge id="229" source="93" target="103" weight="1"/>
+      <edge id="230" source="94" target="95" weight="1"/>
+      <edge id="231" source="96" target="102" weight="1"/>
+      <edge id="232" source="98" target="99" weight="1"/>
+      <edge id="233" source="104" target="106" weight="1"/>
+      <edge id="234" source="105" target="108" weight="1"/>
+    </edges>
+  </graph>
+</gexf>
+
