@@ -39,7 +39,7 @@ En términos sencillos, lo que presento aquí fue construido siguien
 
 2.  De cada tweet, eliminar los stopwords y luego calcular el [Índice de Jaccard](https://es.wikipedia.org/wiki/%C3%8Dndice_Jaccard) utilizando todos los tweets disponibles del candidato
 
-3.  Dicotomizar la matriz resultante del paso anterior dejando como 1 si la celda es mayor a la media, de lo contrario queda como 0.
+3.  Dicotomizar la matriz resultante del paso anterior dejando como 1 si la celda es mayor a la mediana, de lo contrario queda como 0.
 
 4.  Filtrar los 100 términos más populares de la lista (según la diagonal de la matriz de similitud)
 
