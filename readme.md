@@ -25,7 +25,13 @@ Red de <a href="marcoporchile/index.html">marcoporchile</a>
 <p>
 Red de <a href="senadornavarro/index.html">senadornavarro</a>
 </p>
+<br>
+
 Contacto
 ========
+
+George G. Vega Yon
+
+[@gvegayon](https://twitter.com/gvegayon)
 
 <http://ggvy.cl>

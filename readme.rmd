@@ -14,9 +14,13 @@ candidatos <- c("carolinagoic", "eduardo_artes", "joseantoniokast", "BeaSanchezY
 for (can in candidatos)
   cat("<p>Red de <a href=\"",can,"/index.html\">",can,"</a></p>\n", sep="")
 ```
+<br>
 
 
-Contacto
-=========
+# Contacto
+
+George G. Vega Yon
+
+[\@gvegayon](https://twitter.com/gvegayon)
 
 http://ggvy.cl
