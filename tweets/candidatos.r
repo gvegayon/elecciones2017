@@ -121,11 +121,10 @@ for (candidato in candidatos) {
 # Creando archivo readme
 writeLines(
   paste0(
-    "---------\n",
+    "---\n",
     "title: Tweets DE candidatos \n",
-    "---------\n\n",
-    "Las redes en\n\n  - `../", paste0(candidatos, collapse="`\n  - `../"),
-    "`\n\nY datos en `candidatos.csv` fueron actualizadas por ultima vez en ", Sys.time(),". ",
+    "---\n\n",
+    "Los datos de los tweets de los candidatos fueron actualizadas por ultima vez en ", Sys.time(),". ",
     "Los datos utilizados para crear las redes estan en el archivo [candidatos.zip](candidatos.zip)."
     ),
   con = "tweets/candidatos.md"

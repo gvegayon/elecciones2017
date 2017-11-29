@@ -37,11 +37,14 @@ for (i in seq_along(regexs))
 # Creando archivo readme
 writeLines(
   paste0(
-    "---------\n",
+    "---\n",
     "title: Tweets SOBRE candidatos \n",
-    "---------\n\n",
+    "---\n\n",
     "Los tweets mencionando candidatos fueron actualizadas por ultima vez en ", Sys.time(),". ",
-    "Los datos utilizados para crear las redes estan en el archivo [sobre_candidatos.zip](sobre_candidatos.zip)."
+    "Los datos utilizados para crear las tablas [sobre_candidatos.zip](sobre_candidatos.zip)."
   ),
   con = "tweets/sobre_candidatos.md"
 )
+
+sobre_candidatos <- ans
+save(sobre_candidatos, file="tweets/sobre_candidatos.rda")
