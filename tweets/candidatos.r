@@ -121,13 +121,18 @@ for (candidato in candidatos) {
 # Creando archivo readme
 writeLines(
   paste0(
+    "---------\n",
+    "title: Tweets DE candidatos \n",
+    "---------\n\n",
     "Las redes en\n\n  - `../", paste0(candidatos, collapse="`\n  - `../"),
     "`\n\nY datos en `candidatos.csv` fueron actualizadas por ultima vez en ", Sys.time(),". ",
-    "Los datos utilizados para crear las redes estan en el archivo `candidatos.csv`."
+    "Los datos utilizados para crear las redes estan en el archivo [candidatos.zip](candidatos.zip)."
     ),
   con = "tweets/candidatos.md"
   )
 
-
+# Guardando datos y comprimiendo
 dat <- do.call(rbind, lapply(ans, "[[", "tweets"))
 readr::write_csv(dat, path = "tweets/candidatos.csv")
+zip(zipfile = "tweets/candidatos.zip", files = "tweets/candidatos.csv",
+    flags = "-r9Xm")
